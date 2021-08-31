@@ -1,0 +1,12 @@
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\bin\Debug\期末考試.exe.config
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\bin\Debug\期末考試.exe
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\bin\Debug\期末考試.pdb
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\bin\Debug\期末考試.xml
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\obj\Debug\期末考試.vbprojAssemblyReference.cache
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\obj\Debug\WindowsApp1.Form1.resources
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\obj\Debug\WindowsApp1.Resources.resources
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\obj\Debug\期末考試.vbproj.GenerateResource.cache
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\obj\Debug\期末考試.vbproj.CoreCompileInputs.cache
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\obj\Debug\期末考試.exe
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\obj\Debug\期末考試.xml
+D:\學校\南台\一年級下學期\VB\期末考是預備\期末考試\期末考試\obj\Debug\期末考試.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "剪刀石頭布", "剪刀石頭布\剪刀石頭布.vbproj", "{B1A40FBB-1575-45E5-9956-1CB8DCA60102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1A40FBB-1575-45E5-9956-1CB8DCA60102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A40FBB-1575-45E5-9956-1CB8DCA60102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A40FBB-1575-45E5-9956-1CB8DCA60102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A40FBB-1575-45E5-9956-1CB8DCA60102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71BC7096-804A-4C29-B77E-837888C60073}
+	EndGlobalSection
+EndGlobal

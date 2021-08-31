@@ -1,0 +1,24 @@
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\yowyo\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\學校\南台\一年級下學期\VB\期末考是預備\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

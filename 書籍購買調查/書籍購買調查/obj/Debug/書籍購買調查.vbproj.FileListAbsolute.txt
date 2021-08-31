@@ -1,0 +1,12 @@
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\bin\Debug\書籍購買調查.exe.config
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\bin\Debug\書籍購買調查.exe
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\bin\Debug\書籍購買調查.pdb
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\bin\Debug\書籍購買調查.xml
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\obj\Debug\書籍購買調查.vbprojAssemblyReference.cache
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\obj\Debug\WindowsApp1.Form1.resources
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\obj\Debug\WindowsApp1.Resources.resources
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\obj\Debug\書籍購買調查.vbproj.GenerateResource.cache
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\obj\Debug\書籍購買調查.vbproj.CoreCompileInputs.cache
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\obj\Debug\書籍購買調查.exe
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\obj\Debug\書籍購買調查.xml
+D:\學校\南台\一年級下學期\VB\書籍購買調查\書籍購買調查\obj\Debug\書籍購買調查.pdb
